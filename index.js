@@ -151,12 +151,12 @@ mentions: [num],
 fileName: `WELCOME TO ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©KURUSHI BOT INC 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
-body:"SUB DRIPS OFC",
+title:"KURUSHI BOT V4",
+body:"© KURUSHI 2022",
 showAdAttribution: true,
 mediaType:2,
 thumbnail:wangu,
@@ -174,7 +174,7 @@ ZimBotInc.sendMessage(anu.id, buttonMessage)
                     he = `He/She is gone bro ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
                     
 let buttons = [
-{buttonId: `halo`, buttonText: {displayText: 'BYE'}, type: 1}
+{buttonId: `halo`, buttonText: {displayText: 'BYE NGEN🗿'}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./lib/tes.xlsx'),
@@ -184,12 +184,12 @@ mentions: [num],
 fileName: `HE/SHE IS GONE BRO ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©KURUSHI BOT INC 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
-body:"SUB DRIPS OFC",
+title:"KURUSHI BOT OFC",
+body:"KURUSHI OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: mhatadzenyu,
